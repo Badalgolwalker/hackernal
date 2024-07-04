@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.h1{
+  background-color: rgba(147, 147, 229, 0.26);
+  font-size: 100px;
+  border: 1px solid #000;
+  width: 27%;
+  padding: 2vh;
+  margin: 1vh;
+}
+.h4{
+  width: 50vw;
+  border-left: 1px  solid #000;
+  
+  text-align: center;
+  }
+  
+  .h2{
+    width: 58%;
+  }
